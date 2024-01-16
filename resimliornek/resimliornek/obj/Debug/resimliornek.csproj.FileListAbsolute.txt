@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\resimliornek\resimliornek\bin\Debug\resimliornek.exe.config
+C:\Users\User\source\repos\resimliornek\resimliornek\bin\Debug\resimliornek.exe
+C:\Users\User\source\repos\resimliornek\resimliornek\bin\Debug\resimliornek.pdb
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.Form1.resources
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.Properties.Resources.resources
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.exe
+C:\Users\User\source\repos\resimliornek\resimliornek\obj\Debug\resimliornek.pdb
